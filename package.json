@@ -1,0 +1,26 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncactions.js",
+  "scripts": {
+    "start": "nodemon asyncactions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notchraiser/redux-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notchraiser/redux-demo/issues"
+  },
+  "homepage": "https://github.com/notchraiser/redux-demo#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  }
+}
